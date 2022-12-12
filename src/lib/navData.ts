@@ -13,5 +13,13 @@ export const navData = [
         text: "Explore",
         link: "explore",
         icon: TravelExploreIcon
+    },
+
+    {
+        id: 1,
+        text: "todo",
+        link: "todo-list-view",
+        icon: TravelExploreIcon
     }
+
 ]
